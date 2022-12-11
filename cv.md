@@ -9,7 +9,7 @@
 - *Work as an engineer. I am interested in everything related to information technology. My dream is to become a front-end developer.*
 
 ## skills
-- html 50%
+- html 55%
 - css 40%
 - javascript 15%
 - git 35%
