@@ -32,4 +32,4 @@
 - higher education in SUKHOI STATE TECHNICAL UNIVERSITY OF GOMEL
 
 ## english language
-- Pre-Intermediate
+- В1
