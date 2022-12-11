@@ -1,1 +1,1 @@
-# rsschool-cv
+https://korolexx.github.io/rsschool-cv/cv
